@@ -2,7 +2,7 @@
 
 Project info: [http://www.golem.de/projekte/ot/doku.php](http://www.golem.de/projekte/ot/doku.php)
 
-## Node.js implementaton for _Intel Edison_ with _Grove Starter Kit Plus (IoT Intel Edition)_
+## Node.js implementation for _Intel Edison_ with _Grove Starter Kit Plus (IoT Intel Edition)_
 
 ![alt text](https://github.com/jScriptster/IoT-IntelEdison-GolemOfficeTemperatureProject/blob/master/temp-edison.jpg "Intel Edison with Grove Starter Kit Plus (IoT Intel Edition)")
 
