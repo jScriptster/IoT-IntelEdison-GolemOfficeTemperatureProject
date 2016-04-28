@@ -1,4 +1,4 @@
-# IoT OfficeTemperature-Project by golem.de
+# IoT OfficeTemperature-Project (by _golem.de_)
 
 Project info: [http://www.golem.de/projekte/ot/doku.php](http://www.golem.de/projekte/ot/doku.php)
 
@@ -10,6 +10,6 @@ Project info: [http://www.golem.de/projekte/ot/doku.php](http://www.golem.de/pro
 * send temperature (and meta-data) to golem-API
 * show temperature and response staus-code on _Grove-LCD RGB backlight_
 
-Before use edit config.js!
+Customize _config.js_ before use!
 
 _Notice:_ Make sure that your selected voltage level is 5V. Check J9 at your breakout-board and the switch at your _Grove Base Shield (V2)_.
