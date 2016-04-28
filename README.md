@@ -1,10 +1,11 @@
-# IoT temperature-project from Golem.de
+# IoT OfficeTemperature-Project by golem.de
 
 Project info: [http://www.golem.de/projekte/ot/doku.php](http://www.golem.de/projekte/ot/doku.php)
 
+## Node.js implementaton for __Intel Edison__ with _Grove Starter Kit Plus (IoT Intel Edition)_
+
 ![alt text](https://github.com/jScriptster/IoT-IntelEdison-GolemOfficeTemperatureProject/blob/master/temp-edison.jpg "Intel Edison with Grove Starter Kit Plus (IoT Intel Edition)")
 
-* Node.js implementaton for __Intel Edison__ with _Grove Starter Kit Plus (IoT Intel Edition)_
 * read analog data from a _Temperature Sensor_
 * send temperature (and meta-data) to golem-API
 * show temperature and response staus-code on _Grove-LCD RGB backlight_
